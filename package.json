@@ -75,7 +75,7 @@
     "/src/webauthn-json/**/*"
   ],
   "dependencies": {
-    "@web/dev-server-esbuild": "^0.3.3",
+    "@web/dev-server-esbuild": "^0.4.4",
     "@web/test-runner": "^0.15.0"
   }
 }
